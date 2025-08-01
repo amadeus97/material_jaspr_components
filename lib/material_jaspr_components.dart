@@ -5,4 +5,4 @@ library;
 
 export 'src/material_jaspr_components_base.dart';
 
-// TODO: Export any libraries intended for clients of this package.
+export 'src/components/elevated_button.dart';
